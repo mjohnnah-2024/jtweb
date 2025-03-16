@@ -20,6 +20,7 @@
 </main>
 <x-footer />
 
+<script src="/js/preline.js"></script>
 </body>
 </html>
 
