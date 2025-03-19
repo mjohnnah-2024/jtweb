@@ -1,6 +1,6 @@
-## About i-Finance Website ....readme to be updated.
+## About JT Web Project
 
-iFinance website is build on the laravel web framework, utilizing benefits such as:
+JT website is build on the laravel web framework, utilizing benefits such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 -
